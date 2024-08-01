@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+@font-face {
+  font-family: "DMM";   /*Can be any text*/
+  src: local("AirbnbCerealLight"),
+    url("./assets/fonts/DMM.ttf") format("truetype");
+}
+@font-face {
+  font-family: "MB";   /*Can be any text*/
+  src: local("AirbnbCerealLight"),
+    url("./assets/fonts/MB.woff") format("truetype");
+}
+@font-face {
+  font-family: "MR";   /*Can be any text*/
+  src: local("AirbnbCerealLight"),
+    url("./assets/fonts/MR.woff") format("truetype");
+}
